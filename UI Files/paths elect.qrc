@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>wrench-watch-dogs-2-monochorme_1565054351.jpg</file>
+    <file>wrench-watch-dogs-2-monochorme_1565054351.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix"/>
+</RCC>
